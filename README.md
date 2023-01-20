@@ -1,7 +1,5 @@
-# IE5374-Foundations-Data-Analytics-Course-Files
+# Project Description
 This repository consists of mini projects implemented while taking the foundations course.
-
-### Project Description
 
 #### Project 1
 
